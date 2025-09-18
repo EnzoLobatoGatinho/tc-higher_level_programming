@@ -1,4 +1,3 @@
 #!/usr/bin/python3
 
-f
-
+print("{}".format("".join([chr(number) for number in range(ord("a"), ord("z")+1)])), end="")
