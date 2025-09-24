@@ -7,5 +7,3 @@ def print_last_digit(number):
     print(last_digit)
     return last_digit
 
-r = print_last_digit(21)   # imprime 1, r recebe 1
-r = print_last_digit(-21)  # imprime 1, r recebe 1
