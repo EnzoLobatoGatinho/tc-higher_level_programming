@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-
 def islower(c):
     return ord('a') <= ord(c) <= ord('z')
 
@@ -11,5 +10,4 @@ def uppercase(str):
         else:
             novo = ch
         res += novo
-    print(f"{res}")
-
+    print("{}".format(res))
