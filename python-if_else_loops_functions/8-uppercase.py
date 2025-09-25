@@ -13,6 +13,3 @@ def uppercase(str):
         res += novo
     print(f"{res}")
 
-# Chamadas de teste
-uppercase("best")
-uppercase("Best School 98 Battery street")
