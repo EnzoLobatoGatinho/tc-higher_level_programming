@@ -4,4 +4,4 @@ def add(a, b):
     return a + b
 
 
-print(add(6, 3))
+print(add(100, -2))
